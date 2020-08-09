@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi, I'm Uriel.
 
-<!--
-**urieloalves/urieloalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a software developer and computer science student passionate about web technologies.
 
-Here are some ideas to get you started:
+My professional experience has been focused on the frontend using mainly the following technologies:
+- JavaScript
+- React
+- HTML
+- CSS and Sass
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Even though my skillset leans towards the frontend, the entire software development stack fascinates me. In order to acquire more skills regarding the backend and polish the ones I have related to the frontend, I enrolled in a Fullstack Development Bootcamp. These are some of the technologies that I have being learning and working with:
+- TypeScript
+- Node.js
+- Express
+- PostgreSQL
+- TypeORM
+- Docker
+- styled-components 
+
+I am currently looking for a new oppotunity. You can learn more about my professional experience and contact me on [LinkedIn](https://www.linkedin.com/in/urieloalves/)
