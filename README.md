@@ -13,6 +13,8 @@ Even though my skillset leans towards the frontend, the entire software developm
 - Node.js
 - Express
 - PostgreSQL
+- MongoDB
+- Redis
 - TypeORM
 - Docker
 - styled-components 
