@@ -18,5 +18,3 @@ Even though my skillset leans towards the frontend, the entire software developm
 - TypeORM
 - Docker
 - styled-components 
-
-I am currently looking for a new oppotunity. You can learn more about my professional experience and contact me on [LinkedIn](https://www.linkedin.com/in/urieloalves/)
