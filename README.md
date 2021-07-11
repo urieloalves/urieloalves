@@ -2,7 +2,7 @@
 
 I'm a software developer and computer science student. I've been working in tech since 2019 and I'm currently living in Munich, Germany. 
 
-I have experience in web development with `Node`, `React`, and `TypeScript`. In addition, I'm learning Java and its ecosystem since I want to focus on the backend.
+I have experience in web development with `Node`, `React`, and `TypeScript`. I'm currently interested in `Java` and its ecosystem and focusing my studies on those technologies.
 
 [![Linkedin: urieloalves](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/urieloalves/)](https://www.linkedin.com/in/urieloalves/)
 
