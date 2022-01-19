@@ -1,11 +1,8 @@
 ### Hi there, I'm Uriel.
 
-I'm a software developer and computer science student. I've been working in tech since 2019 and I'm currently living in Munich, Germany. 
-
-I have experience in web development with `Node`, `React`, and `TypeScript`.
+I am a software developer based in Munich, Germany. I have experience in web development with `Node`, `React`, and `TypeScript` and I have been working in tech industry since 2019. 
 
 [![Linkedin: urieloalves](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/urieloalves/)](https://www.linkedin.com/in/urieloalves/)
-
 
 ## Technologies
 
