@@ -6,7 +6,7 @@ I am a software developer based in Munich, Germany. I have experience in web dev
 
 ## Technologies
 
-These are some of the technologies and tools that I'm learning and/or working with:
+These are some of the technologies and tools that I'm working with and/or learning:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
