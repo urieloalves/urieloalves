@@ -4,7 +4,7 @@
 
 <p align="left">My name is Uriel. I am based in Germany and work as Backend Software Engineer at Pleo.</p>
 
-<p align="left">In my spare time I work on a side project called [StudyConnect](https://github.com/urieloalves/studyconnect-app) which is a web app that connects students from any online learning platform. This app integrates with Discord to provide a fully-fledged chat environment for its users.</p>
+<p align="left">In my spare time I work on a side project called StudyConnect which is a web app that connects students from any online learning platform. This app integrates with Discord to provide a fully-fledged chat environment for its users.</p>
 
 ###
 
