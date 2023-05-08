@@ -1,10 +1,10 @@
-<h1 align="left">Hi there, I'm Uriel.</h1>
+# Hi there, I'm Uriel
 
 ###
 
-I am based in Germany and work as Backend Software Engineer at Pleo.</p>
+I am based in Germany and work as Backend Software Engineer at [Pleo](https://www.pleo.io/).</p>
 
-<p align="left">In my spare time I work on a side project called StudyConnect which is a web app that connects students from any online learning platform. This app integrates with Discord to provide a fully-fledged chat environment for its users.</p>
+In my spare time I work on a side project called [StudyConnect](https://github.com/urieloalves/studyconnect-app) which is a web app that connects students from any online learning platform. This app integrates with Discord to provide a fully-fledged chat environment for its users. The goal of this project is to learn the Go programming language.
 
 ###
 
@@ -15,7 +15,7 @@ I am based in Germany and work as Backend Software Engineer at Pleo.</p>
 
 ###
 
-<p align="left">These are some of the technologies and tools that I am working with and/or learning:</p>
+These are some of the technologies and tools that I am working with and/or learning:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" width="52" alt="kotlin logo"  />
