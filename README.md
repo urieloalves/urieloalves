@@ -4,8 +4,6 @@
 
 I am based in Germany and work as Backend Software Engineer at [Pleo](https://www.pleo.io/).</p>
 
-In my spare time I work on a side project called [StudyConnect](https://github.com/urieloalves/studyconnect-app) which is a web app that connects students from any online learning platform. This app integrates with Discord to provide a fully-fledged chat environment for its users. The goal of this project is to learn and practice new technologies such as programming languages, frameworks/libraries and infrastructure.
-
 ###
 
 [![Linkedin: urieloalves](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/urieloalves/)](https://www.linkedin.com/in/urieloalves/)
