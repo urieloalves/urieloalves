@@ -2,7 +2,7 @@
 
 ###
 
-I'm Uriel and I work as Backend Software Engineer at [Pleo](https://www.pleo.io/).</p>
+I'm Uriel and I am a Software Engineer.
 
 ###
 
