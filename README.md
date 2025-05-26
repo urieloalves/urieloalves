@@ -2,7 +2,7 @@
 
 ###
 
-I'm Uriel and I am a Software Engineer.
+My name is Uriel and I am a Software Engineer.
 
 I have professional experience working with Kotlin, a solid understanding of Java, and a strong willingness to learn new programming languages. At Pleo, I played a key role in migrating the internal billing system and developing a cashback service, ensuring seamless transactions and high reliability.
 
