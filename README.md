@@ -2,13 +2,10 @@
 
 ###
 
-My name is Uriel and I am a Software Engineer.
-
-I bring experience across the stack — building robust backend systems with Kotlin and Node.js, and crafting intuitive frontend interfaces with TypeScript and React. At Pleo, I helped migrate the internal billing system and developed a high-reliability cashback service — streamlining critical transactions and supporting business growth.
-
-Earlier in my journey, I contributed to a fullstack project at MVST., applying modern web technologies to create user-focused applications. At Qlaym GmbH, I focused on frontend development for an AI-powered web platform.
-
-I’m now excited for the next chapter. Let’s connect and explore how I can bring value to your team or project!
+My name is Uriel and I am a Backend-focused Software Engineer with 4+ years of experience, most recently at Pleo building billing
+infrastructure and a cashback microservice in Kotlin. Comfortable across the stack — TypeScript, React,
+Node.js — and experienced shipping production systems in fast-moving fintech environments. Open to
+mid-level backend or fullstack roles in Europe.
 
 ###
 
